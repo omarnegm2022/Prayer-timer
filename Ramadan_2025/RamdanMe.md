@@ -24,5 +24,4 @@ Although I could simply do it in one way just using Excel, but I decided to make
 
 <br>
 Source of the timetable:
-x [![image](https://github.com/user-attachments/assets/76f66c49-ace8-4325-9a7a-53033a2b584a)
-](https://www.esa.gov.eg/Emskaya.aspx)
+[Egyptian General Survey Authority](https://www.esa.gov.eg/Emskaya.aspx)
