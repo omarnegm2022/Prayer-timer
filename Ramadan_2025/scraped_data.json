@@ -1,0 +1,853 @@
+{"PrayerTimes":{
+    "Week1": {
+    "Saturday":{
+        
+            "Subject": ["Fajr",
+                                "Sun_rise",
+                                            "Duhr",
+                                                    "Asr",
+                                                            "Maghrib",
+                                                                        "Isha"
+            ],
+            "Date": "2025-3-1",
+            "Start Time": ["4:55:00.0",
+                                "6:22:00.0",
+                                            "12:08:00.0",
+                                                    "15:26:00.0",
+                                                            "17:55:00",
+                                                                        "19:12:00.0"
+            ],
+            "End Time": ["6:20:00.0",
+                                "12:00:00.0",
+                                            "15:25:00.0",
+                                                    "17:50:00.0",
+                                                            "19:10:00.0",
+                                                                        "4:44:00.0"
+            ],
+            "Is Friday": false,            
+            "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+            {   "ETF(Estimated Time for fasting":"13 hrs",
+                "MBF(meal before fasting": "2:35",
+                "Constipation":"4:35"}
+            ]},
+            
+            "Sunday":{
+        
+                "Subject": ["Fajr",
+                                    "Sun_rise",
+                                                "Duhr",
+                                                        "Asr",
+                                                                "Maghrib",
+                                                                            "Isha"
+                ],
+                "Date": "2025-3-2",
+                "Start Time": ["4:54:00.0",
+                                    "6:21:00.0",
+                                                "12:08:00.0",
+                                                        "15:26:00.0",
+                                                                "17:55:00",
+                                                                            "19:13:00.0"
+                ],
+                "End Time": ["6:20:00.0",
+                                    "12:00:00.0",
+                                                "15:25:00.0",
+                                                        "17:50:00.0",
+                                                                "19:10:00.0",
+                                                                            "4:43:00.0"
+                ],
+                "Is Friday": false,            
+                "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                {   "ETF(Estimated Time for fasting":"13 hrs",
+                "MBF(meal before fasting": "2:34",
+                    "Constipation":"4:34"}
+                ]},
+            "Monday":{
+        
+                    "Subject": ["Fajr prayer",
+                                        "Sun_rise",
+                                                    "Duhr prayer",
+                                                            "Asr prayer",
+                                                                    "Maghrib prayer",
+                                                                                "Isha prayer"
+                    ],
+                    "Date": "2025-3-3",
+                    "Start Time": ["4:53:00.0",
+                                        "6:20:00.0",
+                                                    "12:08:00.0",
+                                                            "15:27:00.0",
+                                                                    "17:56:00.0",
+                                                                                "19:14:00.0"
+                    ],
+                    "End Time": ["6:22:00.0",
+                                        "12:00:00.0",
+                                                    "15:25:00.0",
+                                                            "17:50:00.0",
+                                                                    "19:10:00.0",
+                                                                                "4:42:00.0"
+                    ],
+                    "Is Friday": false,            
+                    "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                    {   "ETF(Estimated Time for fasting":"13.25 hrs",
+                    "MBF(meal before fasting": "2:33",
+                        "Constipation":"4:33"}
+                    ]},
+            "Tuesday":{
+        
+            "Subject": ["Fajr",
+                                "Sun_rise",
+                                            "Duhr",
+                                                    "Asr",
+                                                            "Maghrib",
+                                                                        "Isha"
+            ],
+            "Date": "2025-3-4",
+                "Start Time": ["4:52:00.0",
+                                        "6:19:00.0",
+                                         "12:08:00.0",
+                                                "15:27:00.0",
+                                                "17:57:00.0",
+                                                    "19:15:00.0"
+                        ],
+                        "End Time": ["6:14:00.0",
+            "12:00:00.0",
+                        "15:25:00.0",
+                                "17:50:00.0",
+                                        "19:10:00.0",
+                                                    "4:41:00.0"
+],
+            "Is Friday": false,            
+            "Dscrption": ["Set timer for 13hr, 25 min for fasting period!",
+            {   "ETF(Estimated Time for fasting":"13.25 hrs",
+                "MBF(meal before fasting": "2:32",
+                "Constipation":"4:32"}
+            ]},
+            "Wednesday":{
+        
+                "Subject": ["Fajr",
+                                    "Sun_rise",
+                                                "Duhr",
+                                                        "Asr",
+                                                                "Maghrib",
+                                                                            "Isha"
+                ],
+                "Date": "2025-3-5",
+                "Start Time": ["4:51:00.0",
+                                    "6:18:00.0",
+                                                "12:07:00.0",
+                                                        "15:27:00.0",
+                                                                "17:58:00.0",
+                                                                        "19:15:00.0"
+                ],
+                "End Time": ["6:15:00.0",
+                                    "12:00:00.0",
+                                                "15:25:00.0",
+                                                        "17:50:00.0",
+                                                                "19:10:00.0",
+                                                                            "4:40:00.0"
+                ],
+                "Is Friday": false,            
+                "Dscrption": ["Set timer for 13hr, 27 min for fasting period!",
+                {   "ETF(Estimated Time for fasting":"13.5 hrs",
+                "MBF(meal before fasting": "2:30",
+                    "Constipation":"4:30"}
+                ]},
+
+                "Thursday":{
+        
+                    "Subject": ["Fajr",
+                                        "Sun_rise",
+                                                    "Duhr",
+                                                            "Asr",
+                                                                    "Maghrib",
+                                                                                "Isha"
+                    ],
+                    "Date": "2025-3-1",
+                    "Start Time": ["4:55:00.0",
+                                        "",
+                                                    "",
+                                                            "",
+                                                                    "",
+                                                                                ""
+                    ],
+                    "End Time": ["6:22:00.0",
+                                        "",
+                                                    "",
+                                                            "",
+                                                                    "",
+                                                                                ""
+                    ],
+                    "Is Friday": false,            
+                    "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                    {   "ETF(Estimated Time for fasting":"13 hrs",
+                    "MBF(meal before fasting": "2:35",
+                        "Constipation":"4:35"}
+                    ]},
+                    "Friday":{
+        
+                        "Subject": ["Fajr",
+                                            "Sun_rise",
+                                                        "Duhr",
+                                                                "Asr",
+                                                                        "Maghrib",
+                                                                                    "Isha"
+                        ],
+                        "Date": "2025-3-1",
+                        "Start Time": ["4:55:00.0",
+                                            "",
+                                                        "",
+                                                                "",
+                                                                        "",
+                                                                                    ""
+                        ],
+                        "End Time": ["6:22:00.0",
+                                            "",
+                                                        "",
+                                                                "",
+                                                                        "",
+                                                                                    ""
+                        ],
+                        "Is Friday": false,            
+                        "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                        {
+                            "MBF(meal before fasting": "2:35",
+                            "Constipation":"4:35"}
+                        ]}},
+    "Week2": {"Avg(fasting period)":"13.38 hrs",
+                        "Saturday":{
+                            
+                                "Subject": ["Fajr",
+                                                    "Sun_rise",
+                                                                "Duhr",
+                                                                        "Asr",
+                                                                                "Maghrib",
+                                                                                            "Isha"
+                                ],
+                                "Date": "2025-3-8",
+                                "Start Time": ["4:47:00.0",
+                                                    "6:14:00.0",
+                                                                "12:07:00.0",
+                                                                        "15:28:00.0",
+                                                                                "18:00:00.0",
+                                                                                            "19:17:00.0"
+                                ],
+                                "End Time": ["6:10:00.0",
+                                                    "12:00:00.0",
+                                                                "15:25:00.0",
+                                                                        "17:50:00.0",
+                                                                                "19:10:00.0",
+                                                                                            "4:36:00.0"
+                                ],
+                                "Is Friday": false,            
+                                "Dscrption": ["Set timer for 13hr, 33 min for fasting period!",
+                                {
+                                    "MBF(meal before fasting": "2:27",
+                                    "Constipation":"4:27"}
+                                ]},
+                                
+                                "Sunday":{
+                            
+                                    "Subject": ["Fajr",
+                                                        "Sun_rise",
+                                                                    "Duhr",
+                                                                            "Asr",
+                                                                                    "Maghrib",
+                                                                                                "Isha"
+                                    ],
+                                    "Date": "2025-3-9",
+                                    "Start Time": ["4:46:00.0",
+                                                        "6:13:00.0",
+                                                                    "12:06:00.0",
+                                                                            "15:29:00.0",
+                                                                                    "18:00:00.0",
+                                                                                                "19:18:00.0"
+                                    ],
+                                    "End Time": ["6:10:00.0",
+                                                        "12:00:00.0",
+                                                                    "15:25:00.0",
+                                                                            "17:50:00.0",
+                                                                                    "19:10:00.0",
+                                                                                                "4:35:00.0"
+                                    ],
+                                    "Is Friday": false,            
+                                    "Dscrption": ["Set timer for 13hr, 30 min for fasting period!",
+                                    {
+                                        "MBF(meal before fasting": "2:25",
+                                        "Constipation":"4:25"}
+                                    ]},
+                                "Monday":{
+                            
+                                        "Subject": ["Fajr",
+                                                            "Sun_rise",
+                                                                        "Duhr",
+                                                                                "Asr",
+                                                                                        "Maghrib",
+                                                                                                    "Isha"
+                                        ],
+                                        "Date": "2025-3-10",
+                                        "Start Time": ["4:45:00.0",
+                                                            "6:12:00.0",
+                                                                        "12:06:00.0",
+                                                                                "15:29:00.0",
+                                                                                        "18:01:00.0",
+                                                                                                    "19:19:00.0"
+                                        ],
+                                        "End Time": ["6:10:00.0",
+                                                            "12:00:00.0",
+                                                                        "15:25:00.0",
+                                                                                "17:50:00.0",
+                                                                                        "19:10:00.0",
+                                                                                                    "4:34:00.0"
+                                        ],
+                                        "Is Friday": false,            
+                                        "Dscrption": ["Set timer for 13hr, 40 min for fasting period!",
+                                        {
+                                            "MBF(meal before fasting": "2:25",
+                                            "Constipation":"4:25"}
+                                        ]},
+                                "Tuesday":{
+                            
+                                "Subject": ["Fajr",
+                                                    "Sun_rise",
+                                                                "Duhr",
+                                                                        "Asr",
+                                                                                "Maghrib",
+                                                                                            "Isha"
+                                ],
+                                "Date": "2025-3-11",
+                                "Start Time": ["4:44:00.0",
+                                                    "6:11:00.0",
+                                                                "12:06:00.0",
+                                                                        "15:29:00.0",
+                                                                                "18:02:00.0",
+                                                                                            "19:19:00.0"
+                                ],
+                                "End Time": ["6:10:00.0",
+                                                    "12:00:00.0",
+                                                                "15:25:00.0",
+                                                                        "17:55:00.0",
+                                                                                "19:10:00.0",
+                                                                                            "4:33:00.0"
+                                ],
+                                "Is Friday": false,            
+                                "Dscrption": ["Set timer for 13hr, 40 min for fasting period!",
+                                {
+                                    "MBF(meal before fasting": "2:23",
+                                    "Constipation":"4:23"}
+                                ]},
+                                "Wednesday":{
+                            
+                                    "Subject": ["Fajr",
+                                                        "Forenoon",
+                                                                    "Duhr",
+                                                                            "Asr",
+                                                                                    "Maghrib",
+                                                                                                "Isha"
+                                    ],
+                                    "Date": "2025-3-12",
+                                    "Start Time": ["4:43:00.0",
+                                                        "6:35:00.0",
+                                                                    "12:06:00.0",
+                                                                            "15:29:00.0",
+                                                                                    "18:02:00.0",
+                                                                                                "19:20:00.0"
+                                    ],
+                                    "End Time": ["6:22:00.0",
+                                                        "12:00:00.0",
+                                                                    "15:25:00.0",
+                                                                            "17:55:00.0",
+                                                                                    "19:10:00.0",
+                                                                                                "4:31:00.0"
+                                    ],
+                                    "Is Friday": false,            
+                                    "Dscrption": ["Set timer for 13hr, 39 min for fasting period!",
+                                    {
+                                        "MBF(meal before fasting": "2:23",
+                                        "Constipation":"4:23"}
+                                    ]},
+                    
+                                    "Thursday":{
+                            
+                                        "Subject": ["Fajr",
+                                                            "Sun_rise",
+                                                                        "Duhr",
+                                                                                "Asr",
+                                                                                        "Maghrib",
+                                                                                                    "Isha"
+                                        ],
+                                        "Date": "2025-3-13",
+                                        "Start Time": ["4:41:00.0",
+                                                            "6:33:00.0",
+                                                                        "12:05:00.0",
+                                                                                "15:30:00.0",
+                                                                                        "18:03:00.0",
+                                                                                                    "19:21:00.0"
+                                        ],
+                                        "End Time": ["6:00:00.0",
+                                                            "12:00:00.0",
+                                                                        "15:25:00.0",
+                                                                                "17:55:00.0",
+                                                                                        "19:10:00.0",
+                                                                                                    "4:30:00.0"
+                                        ],
+                                        "Is Friday": false,            
+                                        "Dscrption": ["Set timer for 13hr, 42 min for fasting period!",
+                                        {
+                                            "MBF(meal before fasting": "2:21",
+                                            "Constipation":"4:21"}
+                                        ]},
+                                        "Friday":{
+                            
+                                            "Subject": ["Fajr",
+                                                                "Sun_rise",
+                                                                            "Duhr",
+                                                                                    "Asr",
+                                                                                            "Maghrib",
+                                                                                                        "Isha"
+                                            ],
+                                            "Date": "2025-3-1",
+                                            "Start Time": ["4:55:00.0",
+                                                                "",
+                                                                            "",
+                                                                                    "",
+                                                                                            "",
+                                                                                                        ""
+                                            ],
+                                            "End Time": ["6:22:00.0",
+                                                                "",
+                                                                            "",
+                                                                                    "",
+                                                                                            "",
+                                                                                                        ""
+                                            ],
+                                            "Is Friday": false,            
+                                            "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                            {
+                                                "MBF(meal before fasting": "2:35",
+                                                "Constipation":"4:35"}
+                                            ]}},
+"Week3": {"Avg(fasting period)":"13.25 hrs",
+                                            "Saturday":{
+                                                
+                                                    "Subject": ["Fajr",
+                                                                        "Forenoon",
+                                                                                    "Duhr",
+                                                                                            "Asr",
+                                                                                                    "Maghrib",
+                                                                                                                "Isha"
+                                                    ],
+                                                    "Date": "2025-3-15",
+                                                    "Start Time": ["4:39:00.0",
+                                                                        "6:30:00.0",
+                                                                                    "",
+                                                                                            "15:30:00.0",
+                                                                                                    "",
+                                                                                                                ""
+                                                    ],
+                                                    "End Time": ["6:22:00.0",
+                                                                        "",
+                                                                                    "",
+                                                                                            "17:55:00.0",
+                                                                                                    "",
+                                                                                                                ""
+                                                    ],
+                                                    "Is Friday": false,            
+                                                    "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                    {
+                                                        "MBF(meal before fasting": "2:35",
+                                                        "Constipation":"4:35"}
+                                                    ]},
+                                                    
+                                                    "Sunday":{
+                                                
+                                                        "Subject": ["Fajr",
+                                                                            "Forenoon",
+                                                                                        "Duhr",
+                                                                                                "Asr",
+                                                                                                        "Maghrib",
+                                                                                                                    "Isha"
+                                                        ],
+                                                        "Date": "2025-3-16",
+                                                        "Start Time": ["4:38:00.0",
+                                                                            "6:30:00.0",
+                                                                                        "12:05:00.0",
+                                                                                                "15:30:00.0",
+                                                                                                        "18:05:00.0",
+                                                                                                                    "19:23:00.0"
+                                                        ],
+                                                        "End Time": ["6:00:00.0",
+                                                                            "12:00:00.0",
+                                                                                        "15:25:00.0",
+                                                                                                "18:00:00.0",
+                                                                                                        "19:10:00.0",
+                                                                                                                    "4:26:00.0"
+                                                        ],
+                                                        "Is Friday": false,            
+                                                        "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                        {
+                                                            "MBF(meal before fasting": "2:35",
+                                                            "Constipation":"4:35"}
+                                                        ]},
+                                                    "Monday":{
+                                                
+                                                            "Subject": ["Fajr",
+                                                                                "Sun_rise",
+                                                                                            "Duhr",
+                                                                                                    "Asr",
+                                                                                                            "Maghrib",
+                                                                                                                        "Isha"
+                                                            ],
+                                                            "Date": "2025-3-1",
+                                                            "Start Time": ["4:55:00.0",
+                                                                                "",
+                                                                                            "",
+                                                                                                    "",
+                                                                                                            "",
+                                                                                                                        ""
+                                                            ],
+                                                            "End Time": ["6:22:00.0",
+                                                                                "",
+                                                                                            "",
+                                                                                                    "",
+                                                                                                            "",
+                                                                                                                        ""
+                                                            ],
+                                                            "Is Friday": false,            
+                                                            "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                            {
+                                                                "MBF(meal before fasting": "2:35",
+                                                                "Constipation":"4:35"}
+                                                            ]},
+                                                    "Tuesday":{
+                                                
+                                                    "Subject": ["Fajr",
+                                                                        "Sun_rise",
+                                                                                    "Duhr",
+                                                                                            "Asr",
+                                                                                                    "Maghrib",
+                                                                                                                "Isha"
+                                                    ],
+                                                    "Date": "2025-3-1",
+                                                    "Start Time": ["4:55:00.0",
+                                                                        "",
+                                                                                    "",
+                                                                                            "",
+                                                                                                    "",
+                                                                                                                ""
+                                                    ],
+                                                    "End Time": ["6:22:00.0",
+                                                                        "",
+                                                                                    "",
+                                                                                            "",
+                                                                                                    "",
+                                                                                                                ""
+                                                    ],
+                                                    "Is Friday": false,            
+                                                    "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                    {
+                                                        "MBF(meal before fasting": "2:35",
+                                                        "Constipation":"4:35"}
+                                                    ]},
+                                                    "Wednesday":{
+                                                
+                                                        "Subject": ["Fajr",
+                                                                            "Sun_rise",
+                                                                                        "Duhr",
+                                                                                                "Asr",
+                                                                                                        "Maghrib",
+                                                                                                                    "Isha"
+                                                        ],
+                                                        "Date": "2025-3-1",
+                                                        "Start Time": ["4:55:00.0",
+                                                                            "",
+                                                                                        "",
+                                                                                                "",
+                                                                                                        "",
+                                                                                                                    ""
+                                                        ],
+                                                        "End Time": ["6:22:00.0",
+                                                                            "",
+                                                                                        "",
+                                                                                                "",
+                                                                                                        "",
+                                                                                                                    ""
+                                                        ],
+                                                        "Is Friday": false,            
+                                                        "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                        {
+                                                            "MBF(meal before fasting": "2:35",
+                                                            "Constipation":"4:35"}
+                                                        ]},
+                                        
+                                                        "Thursday":{
+                                                
+                                                            "Subject": ["Fajr",
+                                                                                "Sun_rise",
+                                                                                            "Duhr",
+                                                                                                    "Asr",
+                                                                                                            "Maghrib",
+                                                                                                                        "Isha"
+                                                            ],
+                                                            "Date": "2025-3-1",
+                                                            "Start Time": ["4:55:00.0",
+                                                                                "",
+                                                                                            "",
+                                                                                                    "",
+                                                                                                            "",
+                                                                                                                        ""
+                                                            ],
+                                                            "End Time": ["6:22:00.0",
+                                                                                "",
+                                                                                            "",
+                                                                                                    "",
+                                                                                                            "",
+                                                                                                                        ""
+                                                            ],
+                                                            "Is Friday": false,            
+                                                            "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                            {
+                                                                "MBF(meal before fasting": "2:35",
+                                                                "Constipation":"4:35"}
+                                                            ]},
+                                                            "Friday":{
+                                                
+                                                                "Subject": ["Fajr",
+                                                                                    "Sun_rise",
+                                                                                                "Duhr",
+                                                                                                        "Asr",
+                                                                                                                "Maghrib",
+                                                                                                                            "Isha"
+                                                                ],
+                                                                "Date": "2025-3-1",
+                                                                "Start Time": ["4:55:00.0",
+                                                                                    "",
+                                                                                                "",
+                                                                                                        "",
+                                                                                                                "",
+                                                                                                                            ""
+                                                                ],
+                                                                "End Time": ["6:22:00.0",
+                                                                                    "",
+                                                                                                "",
+                                                                                                        "",
+                                                                                                                "",
+                                                                                                                            ""
+                                                                ],
+                                                                "Is Friday": false,            
+                                                                "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                                {
+                                                                    "MBF(meal before fasting": "2:35",
+                                                                    "Constipation":"4:35"}
+                                                                ]}},
+"Week4": {"Avg(fasting period)":"13.25 hrs",
+                                                                "Saturday":{
+                                                                    
+                                                                        "Subject": ["Fajr",
+                                                                                            "Sun_rise",
+                                                                                                        "Duhr",
+                                                                                                                "Asr",
+                                                                                                                        "Maghrib",
+                                                                                                                                    "Isha"
+                                                                        ],
+                                                                        "Date": "2025-3-1",
+                                                                        "Start Time": ["4:55:00.0",
+                                                                                            "",
+                                                                                                        "",
+                                                                                                                "",
+                                                                                                                        "",
+                                                                                                                                    ""
+                                                                        ],
+                                                                        "End Time": ["6:22:00.0",
+                                                                                            "",
+                                                                                                        "",
+                                                                                                                "",
+                                                                                                                        "",
+                                                                                                                                    ""
+                                                                        ],
+                                                                        "Is Friday": false,            
+                                                                        "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                                        {
+                                                                            "MBF(meal before fasting": "2:35",
+                                                                            "Constipation":"4:35"}
+                                                                        ]},
+                                                                        
+                                                                        "Sunday":{
+                                                                    
+                                                                            "Subject": ["Fajr",
+                                                                                                "Sun_rise",
+                                                                                                            "Duhr",
+                                                                                                                    "Asr",
+                                                                                                                            "Maghrib",
+                                                                                                                                        "Isha"
+                                                                            ],
+                                                                            "Date": "2025-3-1",
+                                                                            "Start Time": ["4:55:00.0",
+                                                                                                "",
+                                                                                                            "",
+                                                                                                                    "",
+                                                                                                                            "",
+                                                                                                                                        ""
+                                                                            ],
+                                                                            "End Time": ["6:22:00.0",
+                                                                                                "",
+                                                                                                            "",
+                                                                                                                    "",
+                                                                                                                            "",
+                                                                                                                                        ""
+                                                                            ],
+                                                                            "Is Friday": false,            
+                                                                            "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                                            {
+                                                                                "MBF(meal before fasting": "2:35",
+                                                                                "Constipation":"4:35"}
+                                                                            ]},
+                                                                        "Monday":{
+                                                                    
+                                                                                "Subject": ["Fajr",
+                                                                                                    "Sun_rise",
+                                                                                                                "Duhr",
+                                                                                                                        "Asr",
+                                                                                                                                "Maghrib",
+                                                                                                                                            "Isha"
+                                                                                ],
+                                                                                "Date": "2025-3-1",
+                                                                                "Start Time": ["4:55:00.0",
+                                                                                                    "",
+                                                                                                                "",
+                                                                                                                        "",
+                                                                                                                                "",
+                                                                                                                                            ""
+                                                                                ],
+                                                                                "End Time": ["6:22:00.0",
+                                                                                                    "",
+                                                                                                                "",
+                                                                                                                        "",
+                                                                                                                                "",
+                                                                                                                                            ""
+                                                                                ],
+                                                                                "Is Friday": false,            
+                                                                                "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                                                {
+                                                                                    "MBF(meal before fasting": "2:35",
+                                                                                    "Constipation":"4:35"}
+                                                                                ]},
+                                                                        "Tuesday":{
+                                                                    
+                                                                        "Subject": ["Fajr",
+                                                                                            "Sun_rise",
+                                                                                                        "Duhr",
+                                                                                                                "Asr",
+                                                                                                                        "Maghrib",
+                                                                                                                                    "Isha"
+                                                                        ],
+                                                                        "Date": "2025-3-1",
+                                                                        "Start Time": ["4:55:00.0",
+                                                                                            "",
+                                                                                                        "",
+                                                                                                                "",
+                                                                                                                        "",
+                                                                                                                                    ""
+                                                                        ],
+                                                                        "End Time": ["6:22:00.0",
+                                                                                            "",
+                                                                                                        "",
+                                                                                                                "",
+                                                                                                                        "",
+                                                                                                                                    ""
+                                                                        ],
+                                                                        "Is Friday": false,            
+                                                                        "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                                        {
+                                                                            "MBF(meal before fasting": "2:35",
+                                                                            "Constipation":"4:35"}
+                                                                        ]},
+                                                                        "Wednesday":{
+                                                                    
+                                                                            "Subject": ["Fajr",
+                                                                                                "Sun_rise",
+                                                                                                            "Duhr",
+                                                                                                                    "Asr",
+                                                                                                                            "Maghrib",
+                                                                                                                                        "Isha"
+                                                                            ],
+                                                                            "Date": "2025-3-1",
+                                                                            "Start Time": ["4:55:00.0",
+                                                                                                "",
+                                                                                                            "",
+                                                                                                                    "",
+                                                                                                                            "",
+                                                                                                                                        ""
+                                                                            ],
+                                                                            "End Time": ["6:22:00.0",
+                                                                                                "",
+                                                                                                            "",
+                                                                                                                    "",
+                                                                                                                            "",
+                                                                                                                                        ""
+                                                                            ],
+                                                                            "Is Friday": false,            
+                                                                            "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                                            {
+                                                                                "MBF(meal before fasting": "2:35",
+                                                                                "Constipation":"4:35"}
+                                                                            ]},
+                                                            
+                                                                            "Thursday":{
+                                                                    
+                                                                                "Subject": ["Fajr",
+                                                                                                    "Sun_rise",
+                                                                                                                "Duhr",
+                                                                                                                        "Asr",
+                                                                                                                                "Maghrib",
+                                                                                                                                            "Isha"
+                                                                                ],
+                                                                                "Date": "2025-3-1",
+                                                                                "Start Time": ["4:55:00.0",
+                                                                                                    "",
+                                                                                                                "",
+                                                                                                                        "",
+                                                                                                                                "",
+                                                                                                                                            ""
+                                                                                ],
+                                                                                "End Time": ["6:22:00.0",
+                                                                                                    "",
+                                                                                                                "",
+                                                                                                                        "",
+                                                                                                                                "",
+                                                                                                                                            ""
+                                                                                ],
+                                                                                "Is Friday": false,            
+                                                                                "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                                                {
+                                                                                    "MBF(meal before fasting": "2:35",
+                                                                                    "Constipation":"4:35"}
+                                                                                ]},
+                                                                                "Friday":{
+                                                                    
+                                                                                    "Subject": ["Fajr",
+                                                                                                        "Sun_rise",
+                                                                                                                    "Duhr",
+                                                                                                                            "Asr",
+                                                                                                                                    "Maghrib",
+                                                                                                                                                "Isha"
+                                                                                    ],
+                                                                                    "Date": "2025-3-1",
+                                                                                    "Start Time": ["4:55:00.0",
+                                                                                                        "",
+                                                                                                                    "",
+                                                                                                                            "",
+                                                                                                                                    "",
+                                                                                                                                                ""
+                                                                                    ],
+                                                                                    "End Time": ["6:22:00.0",
+                                                                                                        "",
+                                                                                                                    "",
+                                                                                                                            "",
+                                                                                                                                    "",
+                                                                                                                                                ""
+                                                                                    ],
+                                                                                    "Is Friday": false,            
+                                                                                    "Dscrption": ["Set timer for 13hr, 20 min for fasting period!",
+                                                                                    {
+                                                                                        "MBF(meal before fasting": "2:35",
+                                                                                        "Constipation":"4:35"}
+                                                                                    ]}}}}
